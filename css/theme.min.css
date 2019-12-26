@@ -4696,8 +4696,8 @@ body.search .no-results .search-form input[type=submit] { background-color: var(
 @media screen and (max-width: 1199px) { /********************************************************* ------------- MOBULE HEADER -------------  - Nav trigger alignment [data-mobile-nav-trigger-alignment]: [left, right]  - Logo alignment [data-mobile-logo-alignment]: [default, center]  - Nav Style [data-mobile-nav-style]: [classic, minimal, modern]  - Nav scheme [data-mobile-nav-scheme]: [gray, light, dark]  - Nav alignment [data-mobile-nav-align]: [left, center, right]  - Header Scheme [data-mobile-header-scheme]: [light, gray, dark]  ********************************************************/
   .main-header { position: relative; top: auto; left: auto; }
   .navbar-header .navbar-brand { flex: 1 1 auto; }
-  .navbar-header .navbar-language-switch { flex: 8 1 auto; }
-  .navbar-header .navbar-toggle { flex: 8 1 auto; }
+  .navbar-header .navbar-language-switch { flex: 7 1 auto; }
+  .navbar-header .navbar-toggle { flex: 7 1 auto; }
   [data-overlay-onmobile=true] .main-header-overlay { width: 100%; position: absolute; top: 0; left: 0; }
   [data-mobile-nav-trigger-alignment=left] .navbar-header .navbar-brand { -webkit-box-ordinal-group: 3; -ms-flex-order: 2; order: 2; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; }
   [data-mobile-nav-trigger-alignment=left] .navbar-header .navbar-brand-inner { margin-left: -20px !important; }
